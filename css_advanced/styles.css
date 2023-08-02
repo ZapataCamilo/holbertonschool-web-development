@@ -1,0 +1,25 @@
+header {
+    color: #FFFFFF;
+    height: 29px;
+    background-color: #000;
+    margin: auto;
+    display: flex;
+    margin-left: 171px;
+    margin-top: 35px;
+    margin-right: 171px;
+}
+.logo {
+    width: 167px;
+    height: 29px;
+}
+.menu {
+    width: 234px;
+    height: 15px;
+    font-size: 12px;
+    font-family: 'Source Sans Pro';
+    font-weight: bold;
+    margin-right: 0%;
+    margin-left: auto;
+    justify-content: space-between;
+    display: flex;
+}
