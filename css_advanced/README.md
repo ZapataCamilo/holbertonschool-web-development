@@ -11,4 +11,5 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - How to compute CSS Specificity Value
 - What are Box properties in CSS
 - How does the browser load a webpage
+
 ![Alt text](../image.png)
