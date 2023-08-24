@@ -1,13 +1,17 @@
+body {
+    margin: 0%;
+}
 header {
     color: #FFFFFF;
+    width: 80%;
     height: 29px;
-    background-color: #000;
-    margin: auto;
     display: flex;
     margin-left: 171px;
     margin-top: 35px;
     margin-right: 171px;
+    position: absolute;
 }
+
 .logo {
     width: 167px;
     height: 29px;
@@ -22,4 +26,21 @@ header {
     margin-left: auto;
     justify-content: space-between;
     display: flex;
+}
+main .s1 {
+    background-image: url('/img/Header.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    height: 1093px;
+    width: 100%;
+    z-index: -1;
+    display: flex;
+    position: static;
+}
+
+a {
+    color: #FFFFFF;
+    text-decoration: none;
 }
